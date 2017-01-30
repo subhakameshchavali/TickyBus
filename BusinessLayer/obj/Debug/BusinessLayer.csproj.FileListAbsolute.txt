@@ -1,0 +1,10 @@
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\kamesh\documents\visual studio 2015\Projects\MVC\BusinessLayer\obj\Debug\BusinessLayer.pdb
